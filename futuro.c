@@ -14,7 +14,7 @@ Project code for temperature altering wearable
 void setup(){
   
  //Setting up the LED of the board.
- pinMode(LED_BUILTIN, OUTPUT)
+ //pinMode(LED_BUILTIN, OUTPUT)
 }
 
 
